@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "logo": "",
+        "brand_name": "adidas",
+        "status": "confirmed",
+        "qty": 5,
+        "price": 8000,
+        "placed_on": "15/06/2022"
+      },
+      
+      {
+        "id": 2 ,
+        "logo": "",
+        "brand_name": "puma",
+        "status": "delivered",
+        "qty": 11,
+        "price": 15000,
+        "placed_on": "15/06/2022"
+      },
+      {
+        "id" : 3,
+        "logo": "",
+        "brand_name": "adidas",
+        "status": "confirmed",
+        "qty": 8,
+        "price": 5005,
+        "placed_on": "15/06/2022"
+      },
+      {
+          "id" : 4,
+          "logo": "",
+          "brand_name": "puma",
+          "status": "confirmed",
+          "qty": 35,
+          "price": 1500,
+          "placed_on": "15/06/2022"
+        },
+        {
+          "id" : 5,
+          "logo": "",
+          "brand_name": "nike",
+          "status": "confirmed",
+          "qty": 15,
+          "price": 1000,
+          "placed_on": "15/06/2022"
+        },
+        {
+          "id" : 6,
+          "logo": "",
+          "brand_name": "nike",
+          "status": "pending",
+          "qty": 9,
+          "price": 800,
+          "placed_on": "15/06/2022"
+        },
+        {
+          "id" : 7,
+          "logo": "",
+          "brand_name": "nike",
+          "status": "pending",
+          "qty": 5,
+          "price": 500,
+          "placed_on": "15/06/2022"
+        },
+        {
+          "id" : 8,
+          "logo": "",
+          "brand_name": "adidas",
+          "status": "pending",
+          "qty": 5,
+          "price": 100,
+          "placed_on": "15/06/2022"
+        },
+        {
+          "id" : 9,
+          "logo": "",
+          "brand_name": "puma",
+          "status": "redund",
+          "qty": 3,
+          "price": 300,
+          "placed_on": "15/06/2022"
+        },
+        {
+          "id" : 10,
+          "logo": "",
+          "brand_name": "adidas",
+          "status": "redund",
+          "qty": 2,
+          "price": 2000,
+          "placed_on": "15/06/2022"
+        },
+        {
+          "id" : 11,
+          "logo": "",
+          "brand_name": "nike",
+          "status": "delivered",
+          "qty": 1,
+          "price": 600,
+          "placed_on": "15/06/2022"
+        }
+]

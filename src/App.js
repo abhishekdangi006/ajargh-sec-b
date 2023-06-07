@@ -1,6 +1,5 @@
 import React from "react";
 import {product} from './data';
-import Showdata from "./Showdata";
 class App extends React.Component {
   constructor() {
     super();
